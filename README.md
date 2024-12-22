@@ -1,5 +1,6 @@
+A failed Startup :https://github.com/konfig-dev/konfig
 # Konfig
-
+readDoc:https://dylanhuang.com/blog/closing-my-startup/
 The monorepo that holds everything...
 ## Getting started
 
